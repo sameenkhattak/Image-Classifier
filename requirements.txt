@@ -3,3 +3,9 @@ tensorflow==2.12.0
 numpy
 Pillow
 matplotlib
+plotly
+seaborn
+scikit-learn
+gTTS
+pyttsx3
+opencv-python
