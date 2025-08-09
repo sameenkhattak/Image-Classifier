@@ -2,10 +2,10 @@ streamlit==1.24.0
 tensorflow==2.12.0
 numpy
 Pillow
-matplotlib
 plotly
+matplotlib
 seaborn
 scikit-learn
 gTTS
-pyttsx3
+requests
 opencv-python
